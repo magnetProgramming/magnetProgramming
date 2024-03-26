@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @magnetProgramming
+- 👀 I’m interested in Programming, Filmaking, Music Production
+- 🌱 I’m currently learning Java, Python, GDScript
+- 📫 How to reach me magnet.magnetic448@passfwd.com
+- 😄 Pronouns: He/Him
+
+<!---
+magnetProgramming/magnetProgramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

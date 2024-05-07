@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magnetProgramming
 - 👀 I’m interested in Programming, Filmaking, Music Production
-- 🌱 I’m currently learning Java, Python, GDScript
+- 🌱 I’m currently learning Java, Python, C#
 - 📫 How to reach me magnet.magnetic448@passfwd.com
 - 😄 Pronouns: He/Him
 
